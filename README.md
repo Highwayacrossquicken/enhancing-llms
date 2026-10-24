@@ -33,7 +33,7 @@ This work explores novel fine-tuning methods to improve the performance of Large
 
 ```bash
 # Clone the repository
-git clone https://github.com/Highwayacrossquicken/enhancing-llms.git
+git clone https://github.com/mcptest-user/enhancing-llms.git
 cd enhancing-llms
 
 # Install dependencies

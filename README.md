@@ -33,7 +33,7 @@ This work explores novel fine-tuning methods to improve the performance of Large
 
 ```bash
 # Clone the repository
-git clone https://github.com/mcptest-user/enhancing-llms.git
+git clone https://github.com/Highwayacrossquicken/enhancing-llms.git
 cd enhancing-llms
 
 # Install dependencies
@@ -57,7 +57,7 @@ Our advanced fine-tuning techniques achieve significant improvements over baseli
 | Dataset | Baseline | Our Method | Improvement |
 |---------|----------|------------|-------------|
 | GLUE    | 84.2%    | 92.5%      | +8.3%       |
-| SuperGLUE | 76.8%  | 89.3%      | +12.5%      |
+| SuperGLUE | 76.8%  | 89.3%      | +12.5%       |
 
 ## Citation
 

@@ -57,7 +57,7 @@ Our advanced fine-tuning techniques achieve significant improvements over baseli
 | Dataset | Baseline | Our Method | Improvement |
 |---------|----------|------------|-------------|
 | GLUE    | 84.2%    | 92.5%      | +8.3%       |
-| SuperGLUE | 76.8%  | 89.3%      | +12.5%       |
+| SuperGLUE | 76.8%  | 89.3%      | +12.5%      |
 
 ## Citation
 
